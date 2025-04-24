@@ -17,7 +17,7 @@ const Newsletter = () => {
           <FiArrowRight className="text-xl" />
         </button>
         <button className="border border-blue-600 px-6 py-3 rounded-full text-blue-600 hover:bg-blue-600 hover:text-white transition">
-          Learn More(আরো দেখো)
+          Learn More
         </button>
       </div>
     </div>
